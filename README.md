@@ -2,6 +2,7 @@ Jogo Monkey runner.
 Alunos: Diego Paredes / 1821502
         Eduardo Colnago / 1821187
 
+Para iniciar o jogo precione barra de espaço
 
 O jogo consiste em um running game, seu objetivo é desviar dos inimigos (pássaro e da pedra). O jogador tem apenas uma movimentação (pulo) na barra de espaço,
 pule ao chegar próximo dos inimigos para não morrer.
