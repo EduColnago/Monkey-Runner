@@ -83,7 +83,7 @@ function updateImage() {
 
 function validate() {
     entrada = document.getElementById("email");
-    var regex = \\([b-df-hj-np-tv-z]+)\[(([b-df-hj-np-tv-z]+)(\|[b-df-hj-np-tv-z])*)+];
+    var regex = /\\([b-df-hj-np-tv-z]+)\[(([b-df-hj-np-tv-z]+)(\|[b-df-hj-np-tv-z])*)+]/;
     
     if(regex.test(entrada.value)){
         dif = parseInt(document.getElementById("select").value);
