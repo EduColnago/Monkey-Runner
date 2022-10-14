@@ -11,4 +11,4 @@ O processo de desenvolvimento, fizemos todas as mecânicas de um running game, c
 background infinitamente.
 
 Tentamos implementar o select como um selecionador de dificuldades porém não esta funcionando.
-Além disso não foi implementado a validação do Priplanus, apenas de um email padrão.
+O regex foi parcialmente implementado funcionando passando 1 ou mais dominios
