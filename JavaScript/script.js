@@ -77,8 +77,8 @@ function updateImage() {
         countSprite = 1;
     }
 
-    monkey.src = `images/macacocorrendo${countSprite}.png`;
-    bird.src = `images/bird${countSprite}.png`;
+    monkey.src = `Images/macacocorrendo${countSprite}.png`;
+    bird.src = `Images/bird${countSprite}.png`;
 }
 
 function validate() {
